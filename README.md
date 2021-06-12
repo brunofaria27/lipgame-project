@@ -6,5 +6,5 @@ Projeto desenvolvido para divulgar o jogo de LIP - PUC Minas
 para usar o conhecimento da melhor forma e vencer o jogo.
 
 # Ferramentas Utilizadas
-- Bootstrap (muito utilizado por ser um projeto simples)
-- HTML/CSS
+- Bootstrap (muito utilizado por ser um projeto simples);
+- HTML/CSS.
